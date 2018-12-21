@@ -2,6 +2,6 @@ this repo is an example of having different global variables in .env file and se
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-> in development environment it set a global variable **API_URL with value of API_DEV_URL from .env file**
+> in development environment it sets a global variable **API_URL with value of API_DEV_URL from .env file**
 
-> in production environment it set a global variable **API_URL with value of API_PROD_URL from .env file**
+> in production environment it sets a global variable **API_URL with value of API_PROD_URL from .env file**
